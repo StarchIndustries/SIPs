@@ -77,7 +77,7 @@ A SIP is, first and foremost, a document which proposes a solution to a well-def
 files with a _Preamble_ and a set of pre-defined sections. SIPs authors must abide by the general structure, though they
 are free to organise each section as they see fit.
 
-# Editors
+### Editors
 
 | Name         | Favorite Tater | GitHub                     | Twitter                                     | Title             |
 |--------------|----------------|----------------------------|---------------------------------------------|-------------------|
