@@ -1,4 +1,3 @@
-Inverse 6.9420% Potato Rewards Curve
 ---
 SIP: 69420
 Title: Inverse 6.9420% Potato Rewards Curve
