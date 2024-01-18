@@ -6,7 +6,7 @@ Status: Pending
 Category: STAKING
 Authors:
   - Abstract Potato <ipubliclife@gmail.com>
-  - Bone Pool
+  - Bone Pool <none@email.com>
 Implementors: N/A
 Discussions:
   - None so far...
