@@ -5,7 +5,7 @@
 #### Authors: Abstract Potato <ipubliclife@gmail.com> / Adam K Dean
 ## Problems:
 Currently there isn't a way to verify how blocks are being selected from the `pending_blocks` list.
-## Proposed Solution
+## Proposed Solution:
 ### Create a system that uses either internal Starch-Chain data to maintain a seperate system from cardano.
 #### Implementation:
 ```python
