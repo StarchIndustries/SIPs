@@ -22,5 +22,5 @@ winner = random.choice(pending_blocks)
 random.seed = cardano.latest_block()["hash"]
 winner = random.choice(pending_blocks)
 ```
-## Additional Resources:
+## Citations / Additional Resources:
 Python's Random function: https://docs.python.org/3/library/random.html
