@@ -6,10 +6,10 @@ A [Starch Improvement Proposal (SIP)](./SIP-00001) is a formalised design docume
 
 The Starch Foundation intends SIPs to be the primary mechanisms for proposing new features, collecting community input on an issue, and documenting design decisions that have gone into Starch. Plus, because SIPs are text files in a versioned repository, their revision history is the historical record of significant changes affecting Starch.
 
-> **Note** For new SIP, a reference template is available in [SIP-TEMPLATE](./SIP-TEMPLATE)
+> **Note** For new SIP, a reference template is available in [SIP-TEMPLATE](./SIP-00001)
 
 ## Starch Problem Statements (SPS)
 
 A [Starch Problem Statement (SPS)](./SIP-99999) is a formalised document for the Starch ecosystem and the name of the process by which such documents are produced and listed. SPSs are meant to complement SIPs and live side-by-side in the SIP repository as first-class citizens.
 
-> **Note** For new SPS, a reference template is available in [SPS-TEMPLATE](./SPS-TEMPLATE)
+> **Note** For new SPS, a reference template is available in [SPS-TEMPLATE](./SIP-99999)
